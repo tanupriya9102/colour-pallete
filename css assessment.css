@@ -1,0 +1,34 @@
+
+
+
+h1{
+  font-family: Lucida Sans Typewriter ;
+  text-align: center;
+  text-decoration: underline;
+}
+table{
+  margin: auto;
+}
+td{
+  background-color: black;
+  height: 300px;
+  width: 120px;
+  margin: auto;
+ border: 5px solid white;
+}
+
+#one{
+  background-color: #E63946;
+}
+#two{
+  background-color: #F1FAEE
+}
+#three{
+  background-color: #A8DADC
+}
+#four{
+background-color: #457B9D
+}
+#five{
+  background-color:#1D3557;
+}
